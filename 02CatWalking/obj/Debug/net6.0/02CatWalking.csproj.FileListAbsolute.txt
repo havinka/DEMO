@@ -1,0 +1,15 @@
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/bin/Debug/net6.0/02CatWalking
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/bin/Debug/net6.0/02CatWalking.deps.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/bin/Debug/net6.0/02CatWalking.runtimeconfig.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/bin/Debug/net6.0/02CatWalking.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/bin/Debug/net6.0/02CatWalking.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/02CatWalking.csproj.AssemblyReference.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/02CatWalking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/02CatWalking.AssemblyInfoInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/02CatWalking.AssemblyInfo.cs
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/02CatWalking.csproj.CoreCompileInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/02CatWalking.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/refint/02CatWalking.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/02CatWalking.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/02CatWalking.genruntimeconfig.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/02CatWalking/obj/Debug/net6.0/ref/02CatWalking.dll

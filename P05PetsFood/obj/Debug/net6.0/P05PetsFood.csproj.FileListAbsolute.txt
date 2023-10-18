@@ -1,0 +1,15 @@
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/bin/Debug/net6.0/P05PetsFood
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/bin/Debug/net6.0/P05PetsFood.deps.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/bin/Debug/net6.0/P05PetsFood.runtimeconfig.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/bin/Debug/net6.0/P05PetsFood.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/bin/Debug/net6.0/P05PetsFood.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/P05PetsFood.csproj.AssemblyReference.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/P05PetsFood.GeneratedMSBuildEditorConfig.editorconfig
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/P05PetsFood.AssemblyInfoInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/P05PetsFood.AssemblyInfo.cs
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/P05PetsFood.csproj.CoreCompileInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/P05PetsFood.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/refint/P05PetsFood.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/P05PetsFood.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/P05PetsFood.genruntimeconfig.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P05PetsFood/obj/Debug/net6.0/ref/P05PetsFood.dll

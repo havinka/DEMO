@@ -1,0 +1,15 @@
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/bin/Debug/net6.0/P04-FitnessCard
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/bin/Debug/net6.0/P04-FitnessCard.deps.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/bin/Debug/net6.0/P04-FitnessCard.runtimeconfig.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/bin/Debug/net6.0/P04-FitnessCard.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/bin/Debug/net6.0/P04-FitnessCard.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/P04-FitnessCard.csproj.AssemblyReference.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/P04-FitnessCard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/P04-FitnessCard.AssemblyInfoInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/P04-FitnessCard.AssemblyInfo.cs
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/P04-FitnessCard.csproj.CoreCompileInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/P04-FitnessCard.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/refint/P04-FitnessCard.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/P04-FitnessCard.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/P04-FitnessCard.genruntimeconfig.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P04-FitnessCard/obj/Debug/net6.0/ref/P04-FitnessCard.dll

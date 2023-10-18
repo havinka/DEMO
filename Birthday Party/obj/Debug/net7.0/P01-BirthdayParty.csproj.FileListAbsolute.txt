@@ -1,0 +1,15 @@
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/bin/Debug/net7.0/P01-BirthdayParty
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/bin/Debug/net7.0/P01-BirthdayParty.deps.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/bin/Debug/net7.0/P01-BirthdayParty.runtimeconfig.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/bin/Debug/net7.0/P01-BirthdayParty.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/bin/Debug/net7.0/P01-BirthdayParty.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/P01-BirthdayParty.csproj.AssemblyReference.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/P01-BirthdayParty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/P01-BirthdayParty.AssemblyInfoInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/P01-BirthdayParty.AssemblyInfo.cs
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/P01-BirthdayParty.csproj.CoreCompileInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/P01-BirthdayParty.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/refint/P01-BirthdayParty.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/P01-BirthdayParty.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/P01-BirthdayParty.genruntimeconfig.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/Debug/net7.0/ref/P01-BirthdayParty.dll

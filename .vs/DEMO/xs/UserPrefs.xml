@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{9A42F58A-3F42-49A8-917B-F27D7E7D7566}|Default">
+  <MonoDevelop.Ide.ItemProperties.02CatWalking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P04-FitnessCard/Program.cs">
+    <Files>
+      <File FileName="P02-ChangeBureau/Program.cs" />
+      <File FileName="02CatWalking/Program.cs" />
+      <File FileName="P04-FitnessCard/Program.cs" Line="106" Column="14" />
+      <File FileName="BirthdayParty2/Program.cs" />
+      <File FileName="P05PetsFood2/Program.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.P02-ChangeBureau PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../P02-ChangeBureau/Program.cs" line="6" column="12" endLine="6" endColumn="56" offsetX="-1" offsetY="-1" expression="bitcoinCount" liveUpdate="False" />
+    <Watch file="../../../P02-ChangeBureau/Program.cs" line="7" column="15" endLine="7" endColumn="55" offsetX="-1" offsetY="-1" expression="china" liveUpdate="False" />
+    <Watch file="../../../P02-ChangeBureau/Program.cs" line="8" column="15" endLine="8" endColumn="54" offsetX="-1" offsetY="-1" expression="comm" liveUpdate="False" />
+    <Watch file="../../../P02-ChangeBureau/Program.cs" line="10" column="15" endLine="10" endColumn="44" offsetX="-1" offsetY="-1" expression="bitcSum" liveUpdate="False" />
+    <Watch file="../../../P02-ChangeBureau/Program.cs" line="11" column="15" endLine="11" endColumn="38" offsetX="-1" offsetY="-1" expression="chinaSum" liveUpdate="False" />
+    <Watch file="../../../P02-ChangeBureau/Program.cs" line="12" column="25" endLine="12" endColumn="32" offsetX="-1" offsetY="-1" expression="bitcSum" liveUpdate="False" />
+    <Watch file="../../../P02-ChangeBureau/Program.cs" line="14" column="15" endLine="14" endColumn="36" offsetX="-1" offsetY="-1" expression="euro" liveUpdate="False" />
+    <Watch file="../../../P02-ChangeBureau/Program.cs" line="15" column="15" endLine="15" endColumn="46" offsetX="-1" offsetY="-1" expression="commision" liveUpdate="False" />
+    <Watch file="../../../Birthday Party/Program.cs" line="7" column="15" endLine="7" endColumn="58" offsetX="-1" offsetY="-1" expression="hallRent" liveUpdate="False" />
+    <Watch file="../../../Birthday Party/Program.cs" line="8" column="15" endLine="8" endColumn="36" offsetX="-1" offsetY="-1" expression="cake" liveUpdate="False" />
+    <Watch file="../../../Birthday Party/Program.cs" line="9" column="15" endLine="9" endColumn="41" offsetX="-1" offsetY="-1" expression="drinks" liveUpdate="False" />
+    <Watch file="../../../P05PetsFood2/Program.cs" line="6" column="12" endLine="6" endColumn="48" offsetX="-1" offsetY="-1" expression="days" liveUpdate="False" />
+    <Watch file="../../../P05PetsFood2/Program.cs" line="9" column="15" endLine="9" endColumn="31" offsetX="-1" offsetY="-1" expression="totalDogFood" liveUpdate="False" />
+    <Watch file="../../../P05PetsFood2/Program.cs" line="10" column="15" endLine="10" endColumn="31" offsetX="-1" offsetY="-1" expression="totalCatFood" liveUpdate="False" />
+    <Watch file="../../../P05PetsFood2/Program.cs" line="14" column="16" endLine="14" endColumn="55" offsetX="-1" offsetY="-1" expression="foodDog" liveUpdate="False" />
+    <Watch file="../../../P05PetsFood2/Program.cs" line="7" column="15" endLine="7" endColumn="56" offsetX="-1" offsetY="-1" expression="totalFood" liveUpdate="False" />
+    <Watch file="../../../P05PetsFood2/Program.cs" line="8" column="12" endLine="8" endColumn="29" offsetX="-1" offsetY="-1" expression="totalBiscuits" liveUpdate="False" />
+    <Watch file="../../../P05PetsFood2/Program.cs" line="15" column="16" endLine="15" endColumn="55" offsetX="-1" offsetY="-1" expression="foodCat" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.P05PetsFood2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/Program.cs" relfile="Birthday Party/Program.cs" line="8" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P04-FitnessCard PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

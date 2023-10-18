@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/P01-BirthdayParty.csproj": {}
+  },
+  "projects": {
+    "/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/P01-BirthdayParty.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/P01-BirthdayParty.csproj",
+        "projectName": "P01-BirthdayParty",
+        "projectPath": "/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/P01-BirthdayParty.csproj",
+        "packagesPath": "/Users/havsmollova/.nuget/packages/",
+        "outputPath": "/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/Birthday Party/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/havsmollova/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

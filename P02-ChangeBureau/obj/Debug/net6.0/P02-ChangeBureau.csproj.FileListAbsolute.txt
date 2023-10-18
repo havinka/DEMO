@@ -1,0 +1,15 @@
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/bin/Debug/net6.0/P02-ChangeBureau
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/bin/Debug/net6.0/P02-ChangeBureau.deps.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/bin/Debug/net6.0/P02-ChangeBureau.runtimeconfig.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/bin/Debug/net6.0/P02-ChangeBureau.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/bin/Debug/net6.0/P02-ChangeBureau.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/P02-ChangeBureau.csproj.AssemblyReference.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/P02-ChangeBureau.GeneratedMSBuildEditorConfig.editorconfig
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/P02-ChangeBureau.AssemblyInfoInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/P02-ChangeBureau.AssemblyInfo.cs
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/P02-ChangeBureau.csproj.CoreCompileInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/P02-ChangeBureau.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/refint/P02-ChangeBureau.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/P02-ChangeBureau.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/P02-ChangeBureau.genruntimeconfig.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/DEMO/P02-ChangeBureau/obj/Debug/net6.0/ref/P02-ChangeBureau.dll
